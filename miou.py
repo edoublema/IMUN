@@ -6,7 +6,7 @@ from os.path import join
 __all__ = ['SegmentationMetric']
 
 """
-confusionMetric  # 注意：此处横着代表预测值，竖着代表真实值，与之前介绍的相反
+confusionMetric 
 P\L     P    N
 P      TP    FP
 N      FN    TN
